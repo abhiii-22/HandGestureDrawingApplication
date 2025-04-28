@@ -1,0 +1,4 @@
+The libraries to be installed are:
+opencv-python
+mediapipe
+numpy
